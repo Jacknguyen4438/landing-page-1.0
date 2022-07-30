@@ -1,0 +1,112 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+/*project css in this code below*/
+.image-size{
+  width:450px;
+ height:auto;
+}
+.image-block{
+background-color:gray;
+  border-style:solid;
+border-color:#B8860B ;
+  border-radius:10px;
+  border-width:4px;
+ }
+.text-align{
+  display:flex;
+align-item:center;
+  jusify-conten:center;
+
+}
+.text-inside{
+  padding-left:10px;
+}
+.card-margin{
+  margin:0px 10px 0px 10px;
+}
+ 
+.first-info{
+  background-color:black;
+  color:white;
+  bordr-style:solid;
+  border-color:green; 
+  border-width:10px;
+  border-radius:10px;
+  }
+.big-image{
+ width:350px;
+ margin:auto;
+}
+.future-margin{
+  margin: 0px 0px 0px 250px;
+}
+.my-back{
+  background-color:cyan;
+  border-style:solid;
+  border-width:0px;
+  border-radius:10px;
+}
+.my-read{
+ background-color:red;
+  border-style:solid;
+  border-width:0px;
+  border-radius:10px;
+} 
+.my-game{
+  
+  background-color:green;
+  border-style:solid;
+  border-width:0px;
+  border-radius:10px;
+}
+body{
+  background-color:hsl(25, 5%, 68%);
+ }
+.footer-color{
+  background-color:black;
+    padding-top:20px;
+  padding-bottom:20px;
+}
+.iframe-position{
+  margin:auto;
+}
+/*this part for the music hobby section*/
+/*first card css*/
+.pop-card{
+  background-image:linear-gradient(50deg,#f24138 45%,#fcb045 78%);
+}
+.pop-card-margin{
+padding: 0px 0px 25px 0px;
+}
+/*secon card*/
+.J-POP{
+  background-image:linear-gradient(135deg,#528bd7 14%,#d9fc54 29%,#fffffd 42%,#d6c72c 48%,#4331aa 69%,#3b50db 72%);
+}
+/*third card*/
+.Lofi-card{
+  background-image:linear-gradient(90deg,#d58720 0%,#1175c3 48%,#dbaa3b 100%);
+}
+/*westen contry card*/
+.westen-card{
+  background-image:linear-gradient(0deg ,#272928 0%,#d9dfd7 48%,#f2a90c 100%);
+}
+/*this for reuse*/
+.white-background{
+  background-color:white;
+}
+.nav-padding{
+padding: 10px 0px 10px 0px;
+  margin: -7px 0px -15px 0px;
+}
+.iframe-margin{
+margin:0px 0px 0px 260px;
+}
